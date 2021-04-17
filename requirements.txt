@@ -1,6 +1,6 @@
 configargparse==0.9.3
 numpy==1.9.2
-pyyaml==3.11
+pyyaml==5.4
 pep8==1.7.0
 flake8==2.4.1
 pytest==2.7.3
